@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was made by kapil bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made by sachin bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
